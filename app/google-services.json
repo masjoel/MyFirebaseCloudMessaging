@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1002279770182",
+    "firebase_url": "https://myfcmpractise.firebaseio.com",
+    "project_id": "myfcmpractise",
+    "storage_bucket": "myfcmpractise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002279770182:android:85e083fe6883a1d1ee1247",
+        "android_client_info": {
+          "package_name": "com.masjoel.myfirebasecloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002279770182-ps2tsq4usg6uep8qhgjr4e0gr77n39aj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5_lFiVtNe1jM5YQHOsUZyHNyMjdMr094"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002279770182-ps2tsq4usg6uep8qhgjr4e0gr77n39aj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
